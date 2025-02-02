@@ -10,4 +10,9 @@ with col1:
     >Iris_Datasets\n
     >Wine_Dataset\n
     """)
-    st.write("Link to the project [https://myportfolio-iojbai9uggilvkrwjjmvvz.streamlit.app/](https://myportfolio-iojbai9uggilvkrwjjmvvz.streamlit.app/)""")
+    st.write("👉Link to the project [https://myportfolio-iojbai9uggilvkrwjjmvvz.streamlit.app/](https://myportfolio-iojbai9uggilvkrwjjmvvz.streamlit.app/)""")
+    st.write("""#### Using Kaggle datasets ;\n
+    
+    """)
+    st.write("Made a model from kaggle datasets , gives the estimated salary pay annualy based on \"Age\" and \"Experience\"")
+    st.write(" 👉Link to the project [https://sample2-pkjjtgzhdk7rgokdpek47e.streamlit.app/](https://sample2-pkjjtgzhdk7rgokdpek47e.streamlit.app/)""")
